@@ -66,8 +66,8 @@
     section img {
         display: block;
         width: 792px;
-        height: 446px;
-        margin: 0 auto;
+        height: auto;
+        margin: auto;
 
     }
 
@@ -87,7 +87,7 @@
         header img{
             margin: 32px 0 0 16px;
         }
-    }
+    
         .texto_titulo {
             font-size: 40px;
     }
@@ -102,4 +102,6 @@
     section img {
         width: 340px;
         width: 230px;
+    }
+
     }
